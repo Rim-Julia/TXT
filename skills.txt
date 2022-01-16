@@ -1,0 +1,7 @@
+skills:
+QA_Basics
+GitBash
+Git
+Postman
+SQL
+DevTools
