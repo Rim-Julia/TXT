@@ -1,0 +1,3 @@
+name: Julia
+surname: Rim
+pets: 3
